@@ -1,9 +1,9 @@
-# checkReq - module pour Node.js
+# checkReq - middleware pour Node.js
 checkReq, permet de vérifier si un ou plusieurs champs sont remplis pour les req.params ou req.body
 
 
 ## installation
-Placer le fichier checkReq.js dans le dossier modules
+Placer le fichier checkReq.js dans le dossier middlewares
 
 
 ## utilisation
